@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<firstName>Kol</firstName>
+		<lastName>Did</lastName>
+		<age>23</age>
+		<login>Nik</login>
+		<password>123</password>
+	</user>
+	<user>
+		<firstName>Ira</firstName>
+		<lastName>Vinni</lastName>
+		<age>47</age>
+		<login>vennichka</login>
+		<password>789</password>
+	</user>
+	<user>
+		<firstName>Andrey</firstName>
+		<lastName>Popov</lastName>
+		<age>32</age>
+		<login>popov123</login>
+		<password>return</password>
+	</user>
+</users>
